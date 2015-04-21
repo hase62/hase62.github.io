@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-    <title>Profile - Takanori Hasegawan</title>
+    <title>Profile - Takanori Hasegawan, Ph.D</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -58,7 +58,7 @@
 		<div class="container">
 			<div class="row centered">
 				<div class="col-lg-12">
-					<h1>Takanori Hasegawa</h1>
+					<h1>Takanori Hasegawa, Ph.D</h1>
 					<h3>Assistant Professor at Tohoku university, Technology Advisor at Medley, Inc.</h3>
 					<h3>Analysis Advisor at miup Inc.</h3>
 				</div><!--/.col-lg-12 -->
