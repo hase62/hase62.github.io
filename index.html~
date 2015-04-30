@@ -103,8 +103,7 @@
 					</p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>GRADUATING IN Feb 2015</sm><br/>
-					<imp><sm>From Apr. 2012 to Jan. 2015 (Completion in shortened years)</sm></imp>
+					<p><sm>From Apr. 2012 to Jan. 2015 (Completion in shortened years)</sm></p>
 					</p>
 				</div>
 	
@@ -122,7 +121,7 @@
 
 				<div class="col-lg-6 col-lg-offset-3">
 					<p><t>Bachelor of Engineering</t><br/>
-					  Fucalty of Science and Engineering, Waseda University
+					  Fucalty of Science and Engineering, Waseda University<br/>
 					<i>Baccalaureate Degree Program</i>
 					</p>
 				</div>
@@ -172,7 +171,7 @@
 	<div class="container desc">
 		<div class="row">
 				<div class="col-lg-2 col-lg-offset-1">
-					<h5>AWARDS</h5>
+					<h5>PUBLICATIONS</h5>
 				</div>
 				<div class="col-lg-6">
 					<p><t>Best Web Design</t><br/>
@@ -198,7 +197,7 @@
 	</div><!--/.container -->
 	
 	
-	<!--SKILLS DESCRIPTION -->
+	<!--SKILLS DESCRIPTION>
 	<div id="skillswrap">
 		<div class="container">
 			<div class="row">
@@ -315,9 +314,9 @@
 						</script>
 					</div>
 
-			</div><!--/.row -->
+			</div>
 			<br>
-		</div><!--/.container -->
+		</div>
 	</div><!--/ #skillswrap -->
 
 
