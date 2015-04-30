@@ -109,7 +109,7 @@
 				</div>
 	
 				<div class="col-lg-6 col-lg-offset-3">
-					<p><t>Master of information science and technology</t><br/>
+					<p><t>Master of Information Science and Technology</t><br/>
 					  Department of Computer Science <br/>
 					  Graduate School of Information Science, The University of Tokyo<br/>
 					  (Human Genome Center, Institute of Medical Science, The University of Tokyo)<br/>
@@ -117,7 +117,17 @@
 					</p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>From Apr. JUNE 2010 to Mar. 2012</sm></p>
+					<p><sm>From Apr. 2010 to Mar. 2012</sm></p>
+				</div>
+
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Bachelor of Engineering</t><br/>
+					  Fucalty of Science and Engineering, Waseda University
+					<i>Baccalaureate Degree Program</i>
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>From Apr. 2006 to Mar. 2010</sm></p>
 				</div>
 	
 		</div><!--/.row -->
