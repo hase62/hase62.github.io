@@ -143,24 +143,47 @@
 					<h5>WORK</h5>
 				</div>
 				<div class="col-lg-6">
-					<p><t>Front-end Developer</t><br/>
-						Black Tie Corp. <br/>
-					</p>
-					<p><more>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</more></p>
+				<p><t>Assistant Professor</t><br/>
+				Tohoku Medical Megaban Organization, Tohoku University<br/>
+				</p>
+				<p>The main work here is genome wide association study. My own research is to develop statistical methodologies based on state space models and kernel Bayes' methods for intracellular system analysis and meta-genome analysis. </p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>AUGUST 2012 - CURRENT</sm></p>
+				<p><sm>Febrary 2015 - CURRENT</sm></p>
+				</div>
+
+				<div class="col-lg-6">
+				<p><t>Technology Advisor / Principal Investigator</t><br/>
+				Medley, Inc.<br/>
+				</p>
+				<p>I developed an automatic consulting system for medical treatment. This system is a type of artificial intelligence and based on Bayesian inference. The first prototype can be used at Medley website. More extension of this system is under preparation. </p>
+				</div>
+				<div class="col-lg-3">
+				<p><sm>Febrary 2015 - Aprl 2015</sm></p>
+				</div>
+
+				<div class="col-lg-6">
+				<p><t>Co-founder / CTO</t><br/>
+				CRUNCHERS Inc. <br/>
+				</p>
+				<p>I developed automatic evaluation systems for predicting the profit of books and cinema. The former system was integrated by Medley, Inc. For the latter system, I still has supported CRUNCHERS Inc as a technical advisor. </p>
+				</div>
+				<div class="col-lg-3">
+				<p><sm>July 2013 - Febrary 2015</sm></p>
+				</div>
+
+				<div class="col-lg-6">
+				<p><t>Research Fellow</t><br/>
+				Japan Society for The Promotion of Science<br/>
+				</p>
+				<p>The research topic was Reconstructing Biological Systems Incorporating Multi-Source
+Biological Data via Data Assimilation Techniques</p>
+				</div>
+				<div class="col-lg-3">
+				<p><sm>April 2012 - January 2015</sm></p>
 				</div>
 	
-				<div class="col-lg-6 col-lg-offset-3">
-					<p><t>Web Designer - Intern</t><br/>
-						Onassis Ltd. <br/>
-					</p>
-					<p><more>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</more></p>
-				</div>
-				<div class="col-lg-3">
-					<p><sm>JUNE 2010 - JULY 2012</sm></p>
-				</div>
+
 		</div><!--/.row -->
 		<br>
 		<hr>
@@ -373,12 +396,12 @@
 			<div class="row">
 			
 				<div class="col-lg-2 col-lg-offset-1">
-					<h5>CONTACT</h5>
+				<h5>CONTACT</h5>
 				</div>
 				<div class="col-lg-6">
-					<p><t>Email</t><br/>
-						t-hasegw@megabank.tohoku.ac.jp <br/>
-					</p>
+				<p><t>Email</t><br/>
+				t-hasegw@megabank.tohoku.ac.jp <br/>
+				</p>
 				</div>
 				<div class="col-lg-3">
 					<p><sm>SOCIAL LINKS</sm></p>
