@@ -324,7 +324,7 @@
 	<div class="container desc">
 		<div class="row">
 				<div class="col-lg-2 col-lg-offset-1">
-					<h5>PORTFOLIO</h5>
+					<h5>Introduction</h5>
 				</div>
 				<div class="col-lg-6">
 					<p><img class="img-responsive" src="assets/img/port01.jpg" alt=""></p>
@@ -341,12 +341,12 @@
 				</div>
 				<div class="col-lg-3">
 						<p>Business</p>
-					<p><more>博士課程に於いてCRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システムや統計的シミュレーションを用いた映画の興行収益予測システムを開発。修了後、Medley, Inc.の技術顧問としてベイズ理論ベースの医療用疾患推定システムを開発。現在はmiup Inc.の共同創業者兼解析顧問に就任。<br/><br/>
+					<p><more>博士課程に於いてCRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システムや統計的シミュレーションを用いた映画の興行収益予測システムを開発。修了後、Medley, Inc.の技術顧問としてベイズ理論ベースの医療用疾患推定システムを開発。現在はmiup Inc.の共同創業者兼解析顧問に就任し、化粧品のレコメンデーションシステムを開発している。<br/><br/>
 						<sm><i class="icon-tag"></i> front-end</sm></more> 
 					</p>
 				</div>
 				
-				<div class="col-lg-6 col-lg-offset-3">
+				<!---div class="col-lg-6 col-lg-offset-3">
 					<p><img class="img-responsive" src="assets/img/port03.jpg" alt=""></p>
 				</div>
 				<div class="col-lg-3">
@@ -354,7 +354,7 @@
 					<p><more>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br/><br/>
 						<sm><i class="icon-tag"></i> web design</sm></more> 
 					</p>
-				</div>
+				</div--->
 		
 		</div><!--/.row -->
 		<br>
@@ -382,7 +382,9 @@
 					<p>
 						<a href="#"><i class="icon-twitter"></i></a>
 						<a href="https://www.facebook.com/hase62"><i class="icon-facebook"></i></a>
-						<a href="https://www.linkedin.com/profile/view?id=325576287&trk=hp-identity-name"><i class="icon-linkedin"></i></a>
+						<a href="https://www.linkedin.com/in/hase62"><i class="icon-linkedin"></i></a>
+						<a href="https://www.wantedly.com/users/142648"><i class="icon-wantedly"></i></a>
+						<a href="http://coffeemeeting.jp/1352542156"><i class="icon-coffee"></i></a>
 					</p>
 				</div>
 			</div><!--/.row -->
