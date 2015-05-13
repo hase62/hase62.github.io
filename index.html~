@@ -248,7 +248,7 @@ Biological Data via Data Assimilation Techniques</p>
 						</script>
 					</div>
                                         <div class="col-lg-3 centered">
-                                                <canvas id="javascript" height="100" width="100"></canvas>
+                                                <canvas id="bootstrap" height="100" width="100"></canvas>
                                                 <p><a href="#"><i class="icon-file"></i></a> <a href="#">HMEnPF.jar[7]</a></p>
                                                 <br>
                                                 <script>
