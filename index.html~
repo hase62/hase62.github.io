@@ -254,7 +254,7 @@ Biological Data via Data Assimilation Techniques</p>
                                                 <script>
                                                         var doughnutData = [
                                                                         {
-                                                                                value: 500,
+                                                                                value: 50,
                                                                                 color:"#1abc9c"
                                                                         },
                                                                         {
