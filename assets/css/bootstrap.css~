@@ -345,10 +345,10 @@ img {
 }
 
 .img-responsive {
-  width: 90%;
+  width: 100%;
   display: block;
   height: auto;
-  max-width: 640px;
+  max-width: 480px;
 }
 
 .img-rounded {
