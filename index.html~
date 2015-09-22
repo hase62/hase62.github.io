@@ -76,7 +76,7 @@
 	    <h5>ABOUT</h5>
 	  </div>
 	  <div class="col-lg-6">
-	    <p>I'm an assistant professor at Tohoku university and a technical advisor at CRUNCHERS Inc and Medley, Inc. I'm expert of statistical science, machine learning, stochastic simulation, computational biology and bioinformatics, and interested in applying technological developments in computer science and biotechnology to society for the innovation of human life. In academic research, I'm focusing on inferring and reconstructing intracellular systems by developing statistical methodologies to integrate biological data and knowledge and also analyzing human genome data to elucidate association between variants and phenotypes. In business field, my main works are to develop artificial intelligence using, e.g., Bayesian inference and deep learning, and to analyze several types of Big Data and High Dimensional Data. My interest also includes modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy. </p>
+	    <p>I'm an assistant professor at The University of Tokyo, The Institute of Medical Science and a technical advisor at Medley, Inc. I'm expert of statistical science, machine learning, stochastic simulation, computational biology and bioinformatics, and interested in applying technological developments in computer science and biotechnology to society for the innovation of human life. In academic research, I'm focusing on inferring and reconstructing intracellular systems by developing statistical methodologies to integrate biological data and knowledge and also analyzing human genome data to elucidate association between variants and phenotypes. In business field, my main works are to develop artificial intelligence using, e.g., Bayesian inference and deep learning, and to analyze several types of Big Data and High Dimensional Data. My interest also includes modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy. </p>
 	  </div>
 	  <!--div class="col-lg-3">
 	      <p><a href="#"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
@@ -191,9 +191,9 @@
 	
 	<div class="col-lg-6 col-lg-offset-3">
 	  <p><t>Co-founder / CTO (Technology Advisor, Feb. 2015-)</t><br/>
-	    <a href="http://crmg.me/">CRUNCHERS Inc. </a><br/>
+	    <a href="http://www.crunchers.jp/">CRUNCHERS Inc. </a><br/>
 	  </p>
-	  <p>I developed automatic evaluation systems for predicting the profit of books and cinema. The former system was integrated to Medley, Inc. For the latter system, I still have advised the statistical perspective of applying the developed simulation system (CRUNCH CINEMA) to the collaborative companies. In addition, since we're collaborating with major studios and major entertainment companies in JAPAN and USA, I have extended and developed CRUNCH CINEMA for the application of general purpose.</p>
+	  <p>I developed automatic evaluation systems for predicting the profit of books and cinema. The former system was integrated to Medley, Inc. as <a href="http://crmg.me/">CRUNCH MAGAZINE</a>. For the latter system, I still have advised the statistical perspective of applying the developed simulation system (CRUNCH CINEMA) to the collaborative companies. In addition, since we're collaborating with major studios and major entertainment companies in JAPAN and USA, I have extended and developed CRUNCH CINEMA for the application of general purpose.</p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>July 2013 - September 2015</sm></p>
