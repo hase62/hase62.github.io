@@ -232,7 +232,8 @@
 	    [5] E. Ayada, A. Niida, <u>T. Hasegawa</u>, S. Miyano and S. Imoto. Binary contingency table Method for analyzing gene mutation in cancer genome. 11th The International Symposium on Bioinformatics Research and Applications, volume 9096 of Lecture Notes in Computer Science, pp.12-23. Springer Berlin Heidelberg, 2015.<br/>
 	    [6] K. Kojima, Y. Kawai, N. Nariai, T. Mimori, <u>T. Hasegawa</u> and M. Nagasaki. Short tandem repeat number estimation from paired-end sequence reads by considering unobserved genealogy of multiple individuals. Proc. 11th International Symposium on Bioinformatics Research and Applications, volume 9096 of Lecture Notes in Computer Science, pp.422-423, Springer Berlin Heidelberg, 2015.<br/>
 	    [7] <u>T. Hasegawa</u>, T. Mori, R. Yamaguchi, T. Shimamura, S. Miyano, S. Imoto and T. Akutsu. Genomic data assimilation using a higher moment filtering technique for restoration of gene regulatory networks. BMC Systems Biology, vol.9(14), 2015.<br/>
-	    [8] <u>T. Hasegawa</u>, A. Niida, T. Mori, T. Shimamura, R. Yamaguchi, S. Miyano, T. Akutsu and S. Imoto. A likelihood-free filtering method via approximate Bayesian computation in evaluating biological simulation models. Computational Statistics and Data Analysis, vol.94, pp.63-74, inpress.<br/>
+	    [8] <u>T. Hasegawa</u>, A. Niida, T. Mori, T. Shimamura, R. Yamaguchi, S. Miyano, T. Akutsu and S. Imoto. A likelihood-free filtering method via approximate Bayesian computation in evaluating biological simulation models. Computational Statistics and Data Analysis, vol.94, pp.63-74, 2016.<br/>
+	    [8] J. Kurashige, <u>T. Hasegawa</u>, et al. Integrated molecular profiling of human gastric cancer identifies DDR2 as a potential regulator of peritoneal dissemination. Scientific Reports, vol.6, pp.22371, 2016.<br/>
 	  </p>
 	</div>
       </div><!--/.row -->
@@ -303,6 +304,8 @@
 	<div class="col-lg-9">
 	  <p>東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。修士・博士課程に於いて情報科学を専攻し、生命情報学研究（生体内システムの統計的解析手法開発）に携わる。2013年にCRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システムを開発(CRUNCH CINEMA)。京都大学大学院 情報学研究科博士課程を短縮修了後、東北大学 東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発する。同時期に<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)を開発・提供する。現職では統計科学の観点から疾患の予知・予防及び健康の維持を達成する方法論の研究・応用を行っている。生命情報学、統計科学、統計的シミュレーションが専門であり、状態空間モデルの理論的進展に関する幅広い研究も趣味として行っている。<br/><br/>
 	  </p>
+	  <p>Research Bio: Takanori Hasegawa is currently an Assistant Professor of Health Intelligence Center, Institute of Medical Science, University of
+Tokyo. He received BS in Engineering from Waseda university, MS in Information Science and Technology from The university of Tokyo, and PhD in Informatics from Kyoto University in 2010, 2012 and 2015, respectively. His current research interests cover time series analysis using state space models, genomic data assimilation and simulation-based analysis, immunological and cancer genome analysis, and artificial intelligence development for medical health care. </p>
 	</div>
 	
 	<!---div class="col-lg-6 col-lg-offset-3">
