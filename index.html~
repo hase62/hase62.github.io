@@ -61,7 +61,7 @@
 	  <div class="col-lg-12">
 	    <h1>Takanori Hasegawa, Ph.D</h1>
 	    <h3>Assistant Professor at The Univerity of Tokyo</h3>
-	    <h3>Co-founder / Technology Advisor at miup</h3>
+	    <h3>Co-founder / Technology Advisor at miup Inc.</h3>
 	    <h3>Technology Advisor at Medley, Inc., Nadia Inc., and Healthcare online.</h3>
 	  </div><!--/.col-lg-12 -->
 	</div><!--/.row -->
@@ -78,7 +78,7 @@
 	    <h5>ABOUT</h5>
 	  </div>
 	  <div class="col-lg-6">
-	    <p>I'm an assistant professor at <a href="http://www.ims.u-tokyo.ac.jp/imsut/jp/lab/healthintelligence/">The  University of Tokyo</a>, Co-founder / technical advisor at <a href="http://miup.jp/">miup</a>, a technical advisor at <a href="http://medley.life/">Medley, Inc.</a>, <a href="http://nadia.bz/en/">Nadia Inc.</a>, and <a href="http://www.healthcareonline.co.jp/">Healthcare online</a> with expertise of stochastic simulation, statistical science, machine learning, computational biology and bioinformatics. I'm interested in applying technological developments in computer science and biotechnology for the innovation of human life. In academics, I have two main topics. The first one is to develop sophisticated data assimilation methodologies, e.g., novel Kalman filter and SMC theories, and to apply these methods to practical problems such as translational biology. The second one is, as the main work in the current institute, to analyze human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine. In business field, the current interest is to develop several types of automated consulting systems for medical treatment utilizing, e.g., Bayesian inference and deep learning. I'm also studying modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy as life works.</p>
+	    <p>I'm an assistant professor at <a href="http://www.ims.u-tokyo.ac.jp/imsut/jp/lab/healthintelligence/">The  University of Tokyo</a>, Co-founder / technical advisor at <a href="http://miup.jp/">miup</a>, a technical advisor at <a href="http://medley.life/">Medley, Inc.</a>, <a href="http://nadia.bz/en/">Nadia Inc.</a>, and <a href="http://www.healthcareonline.co.jp/">Healthcare online</a> with expertise of stochastic simulation, statistical science, machine learning, computational biology and bioinformatics. I'm interested in applying technological developments in computer science and biotechnology for the innovation of human life. In academics, I have two main topics. The first one is to develop sophisticated data assimilation methodologies, e.g., novel Kalman filter and SMC theories, and to apply these methods to practical problems such as translational biology. The second one is, as the main work in the current institute, to analyze human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine. In business field, the current interest is to develop several types of artificial intelligence systems for medical treatment utilizing, e.g., Bayesian inference and deep learning. I'm also studying modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy as life works.</p>
 	  </div>
 	  <!--div class="col-lg-3">
 	      <p><a href="#"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
@@ -165,7 +165,7 @@
 	  <p><t>Assistant Professor</t><br/>
 	    <a href="http://www.ims.u-tokyo.ac.jp/imsut/jp/lab/healthintelligence/">Health Intelligence Center, The Institute of Medical Science, The University of Tokyo</a><br/>
 	  </p>
-	  <p>I'm handling human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine through modeling, prediction and inference of disease and health systems. </p>
+	  <p>We're handling human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine through modeling, prediction and inference of disease and health systems. Also, we have elucidated immunological genomic systems for personalized antibody drugs to cancer cells. </p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>October 2015 - Current</sm></p>
@@ -176,7 +176,7 @@
 	    <a href="http://miup.jp/">miup</a><br/>
 	  </p>
 	  <p>
-	    We're trying to establish "Integrated Healthcare Eco-System" using IoT technology and clinical A.I. system for developing contries. Our system can assess one's risk without professional knowledge, advise to go to doctor, suggest a candidate list of self-treatments, and support clinical decision for medical doctors. The system has a highly complicated statistical structure to fine-tune the parameter values, estimate the confidence interval of the conclusions, and calculate the future risks through Bayesian statistics and machine learning. 
+	    We're trying to establish "Integrated Healthcare Eco-System" using IoT technology and clinical A.I. system for developing contries. Our system can assess one's health risk without professional knowledge, suggest a candidate list of treatments, and support clinical decision for medical doctors. The system has a highly complicated statistical structure to enhance the quality of the inference, estimate the confidence level of the conclusions, and predict the future risks through Bayesian statistics and machine learning. 
 </p>
 	</div>
 	<div class="col-lg-3">
@@ -187,7 +187,7 @@
 	  <p><t>Technology Advisor</t><br/>
 	    <a href="http://medley.life/">Medley, Inc.</a><br/>
 	  </p>
-	  <p>We developed an automated consulting system termed <a href="http://medley.life/symptoms">Mogul</a> for medical treatment. This system is a type of artificial intelligence and based on Bayesian inference. The first prototype was released at Medley, Inc. website. More extensions have been established. </p>
+	  <p>We developed an automated consulting system termed <a href="http://medley.life/symptoms">Mogul</a> for medical treatment. This system is a type of artificial intelligence and based on a simple Bayesian inference procedure. Also, a concise system for predicting the degree of future influenza epidemic has been released in the website. </p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>February  2015 - Current</sm></p>
@@ -208,8 +208,7 @@
 	  <p><t>Technology Advisor</t><br/>
 	    <a href="http://www.healthcareonline.co.jp/">Heathcare online</a><br/>
 	  </p>
-	  <p>
-	  </p>
+	  <p></p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>May  2016 - Current</sm></p>
@@ -337,7 +336,7 @@
 	</div>
 	
 	<div class="col-lg-9">
-	  <p>東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。修士・博士課程に於いて情報科学を専攻し、生命情報学研究（生体内システムの統計的解析手法開発）に携わる。2013年にCRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システムを開発(CRUNCH CINEMA)。京都大学大学院 情報学研究科博士課程を短縮修了後、東北大学 東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発する。同時期に<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)を開発・提供する。現職では統計科学の観点から疾患の予知・予防及び健康の維持を達成する方法論の研究・応用を行っている。生命情報学、統計科学、統計的シミュレーションが専門であり、状態空間モデルの理論的進展に関する幅広い研究も趣味として行っている。<br/><br/>
+	  <p>東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。修士・博士課程に於いて情報科学を専攻し、生命情報学研究（生体内システムの統計的解析手法開発）に携わる。2013年にCRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システムを開発(CRUNCH CINEMA)。京都大学大学院 情報学研究科博士課程を短縮修了後、東北大学 東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発する。同時期に<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)を開発・提供する。現職では疾患の予知・予防及び健康の維持を目的とする統計科学手法の研究・応用、並びに免疫ゲノム、メタゲノム研究を行っている。生命情報学、統計科学、統計的シミュレーションが専門であり、状態空間モデルの理論的進展に関する幅広い研究も趣味として行っている。<br/><br/>
 	  </p>
 	  <p>Research Bio: Takanori Hasegawa is currently an Assistant Professor of Health Intelligence Center, Institute of Medical Science, University of Tokyo. He received BS in Engineering from Waseda university, MS in Information Science and Technology from The university of Tokyo, and PhD in Informatics from Kyoto University in 2010, 2012 and 2015, respectively. His current research interests cover time series analysis using state space models, genomic data assimilation and simulation-based analysis, immunological and cancer genome analysis, and artificial intelligence development for medical health care. </p>
 	</div>
