@@ -77,7 +77,9 @@
 	    <h5>ABOUT</h5>
 	  </div>
 	  <div class="col-lg-6">
-	    <p>I'm an Assistant Professor at <a href="http://hic-imsut.jp/index.html">The  University of Tokyo</a>, a Co-founder / Scientific Advisor at <a href="http://miup.jp/">miup Inc.</a>, Technical Advisors at <a href="http://www.panasonic.com">Panasonic, Inc.</a> and <a href="">CareLab Inc.</a> with expertise of Computational Statistics, Time-series Analysis (Data Assimilation), Applied Statistics, Bioinformatics, and Machine Learning. I'm interested in applying technological developments in computer science and biotechnology for the innovation of human being. In basic research for Statistical Science, I have developed several types of data assimilation methodologies, e.g., linear/nonlinear Kalman filters. In practical research, I have analyzed human health and epidemiological data such as time-series medical examination data and whole-genome sequencing data to predict future health risk and establish personalized medicine, to elucidate immune cancer relationships, and to prevent disease pandemic. In business field, the current interest is to develop several types of artificial intelligence systems utilizing, e.g., Bayesian statistical inference and natural image processing, for the application of medicine, health and nursing care, and immune-cancer therapies. I'm also studying modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy as life works.</p>
+	    <p>I'm an Assistant Professor at <a href="http://hic-imsut.jp/index.html">The  University of Tokyo</a>,<!-- a Co-founder / Scientific Advisor at <a href="http://miup.jp/">miup Inc.</a>,--> Technical Advisors at <a href="http://www.panasonic.com">Panasonic, Inc.</a> and <a href="">CareLab Inc.</a> with expertise of Computational Statistics, Time-series Analysis (Data Assimilation), Applied Statistics, Bioinformatics, and Machine Learning. I'm interested in applying technological developments in computer science and biotechnology for the innovation of human being. 
+
+In basic research for Statistical Science, I have developed several types of data assimilation methodologies, e.g., linear/nonlinear Kalman filters. In practical research, I have analyzed human health and epidemiological data such as time-series medical examination data and cancer genome sequencing to predict future health risk and establish personalized medicine, to elucidate immune cancer relationships, and to prevent disease pandemic. In business field, the current interest is to develop several types of artificial intelligence systems utilizing, e.g., Bayesian statistical inference, for the application of medicine, health and nursing care, and immune-cancer therapies. I'm also studying modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy as life works.</p>
 	  </div>
 	  <!--div class="col-lg-3">
 	      <p><a href="#"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
@@ -155,7 +157,7 @@
 	  <p><t>Assistant Professor</t><br/>
 	    <a href="http://www.ims.u-tokyo.ac.jp/imsut/jp/lab/healthintelligence/">Health Intelligence Center, The Institute of Medical Science, The University of Tokyo</a><br/>
 	  </p>
-	  <p>We're researching human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine through modeling, prediction and inference of disease and health systems. For example, we have partially focused on immunological cancer genome and metagenome analysis based on statistical science for these purposes. </p>
+	  <p>Our research topics are human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine through modeling, prediction and inference of disease and health systems. For example, we have partially focused on immunological cancer genome and metagenome analysis based on statistical science for these purposes. On the other hand, I'm also focusing on the theoretical developments in data assimilation. </p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>October 2015 - Current</sm></p>
@@ -177,6 +179,7 @@
 	    <a href="http://nadia.bz/en/">Panasonic Inc.</a><br/>
 	  </p>
 	</div>
+	  <p>Confidential: A.I. Development</p>
 	<div class="col-lg-3">
 	  <p><sm>Apr 2017 - Current</sm></p>
 	</div>
@@ -189,6 +192,16 @@
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>Apr 2017 - Current</sm></p>
+	</div>
+
+	<div class="col-lg-6 col-lg-offset-3">
+	  <p><t>Technology Advisor</t><br/>
+	    <a href="http://medley.life/">Medley, Inc.</a><br/>
+	  </p>
+	  <p>We developed an automated consulting system termed <a href="http://medley.life/symptoms">Mogul</a> for medical treatment. This system is a type of artificial intelligence and based on a simple Bayesian inference procedure (Its concept is similar to the one in miup Inc. but this version is a little bit older). Also, a pandemic prediction system for the degree of future influenza epidemic has been released in the website. </p>
+	</div>
+	<div class="col-lg-3">
+	  <p><sm>February  2015 - April 2017</sm></p>
 	</div>
 
 	<div class="col-lg-6 col-lg-offset-3">
@@ -209,16 +222,6 @@
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>Apr 2016 - Sep 2016</sm></p>
-	</div>
-
-	<div class="col-lg-6 col-lg-offset-3">
-	  <p><t>Technology Advisor</t><br/>
-	    <a href="http://medley.life/">Medley, Inc.</a><br/>
-	  </p>
-	  <p>We developed an automated consulting system termed <a href="http://medley.life/symptoms">Mogul</a> for medical treatment. This system is a type of artificial intelligence and based on a simple Bayesian inference procedure (Its concept is similar to the one in miup Inc. but this version is a little bit older). Also, a pandemic prediction system for the degree of future influenza epidemic has been released in the website. </p>
-	</div>
-	<div class="col-lg-3">
-	  <p><sm>February  2015 - April 2017</sm></p>
 	</div>
 
 	<div class="col-lg-6 col-lg-offset-3">
