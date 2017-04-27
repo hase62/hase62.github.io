@@ -145,12 +145,12 @@ In basic research for Statistical Science, I have developed several types of dat
     
     
     <!--WORK DESCRIPTION -->
-    <section id="works" name="works"></section>
+    <section id="current_work" name="current_work"></section>
     <div class="container desc">
       <div class="row">
 	
 	<div class="col-lg-2 col-lg-offset-1">
-	  <h5>WORK</h5>
+	  <h5>CURRENT WORK</h5>
 	</div>
 		
 	<div class="col-lg-6">
@@ -185,7 +185,7 @@ In basic research for Statistical Science, I have developed several types of dat
 	</div>
 
 	<div class="col-lg-6 col-lg-offset-3">
-	  <p><t>Technology Advisor</t><br/>
+	  <p><t>Collaborative Project / Technology Advisor</t><br/>
 	    <a href="http://nadia.bz/en/">CareLab Inc.</a><br/>
 	  </p>
 	  <p>Confidential: A.I. Development</p>
@@ -193,6 +193,21 @@ In basic research for Statistical Science, I have developed several types of dat
 	<div class="col-lg-3">
 	  <p><sm>Apr 2017 - Current</sm></p>
 	</div>
+
+      </div><!--/.row -->
+      <br>
+      <hr>
+    </div><!--/.container -->
+
+    <!--WORK DESCRIPTION -->
+    <section id="past_work" name="past_work"></section>
+    <div class="container desc">
+      <div class="row">
+	
+	<div class="col-lg-2 col-lg-offset-1">
+	  <h5>PAST WORK</h5>
+	</div>
+
 
 	<div class="col-lg-6 col-lg-offset-3">
 	  <p><t>Technology Advisor</t><br/>
