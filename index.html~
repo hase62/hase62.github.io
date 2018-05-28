@@ -157,7 +157,7 @@ In basic research for Statistical Science, I have developed several types of dat
 	  <p><t>Assistant Professor</t><br/>
 	    <a href="http://www.ims.u-tokyo.ac.jp/imsut/jp/lab/healthintelligence/">Health Intelligence Center, The Institute of Medical Science, The University of Tokyo</a><br/>
 	  </p>
-	  <p>Our research topics are human genome, transcriptome, epigenome and clinical data for personalized and preventive medicine through modeling, prediction and inference of disease and health systems. For example, we have partially focused on immunological cancer genome and metagenome analysis based on statistical science for these purposes. On the other hand, I'm also focusing on the theoretical developments in data assimilation. </p>
+	  <p>Our research topics are analyzing human genome, transcriptome, epigenome, metagenome and clinical data for personalized and preventive medicine through modeling, prediction and inference of disease and health systems. For example, we have been undertaking immunological cancer genome and metagenome analysis based on statistical and machine learning methods. Especially, in the field of statistical science, my speciality is computational statistics and statistical time series analysis, such as data assimilation.</p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>October 2015 - Current</sm></p>
@@ -168,7 +168,12 @@ In basic research for Statistical Science, I have developed several types of dat
 	    <a href="http://miup.jp/">miup</a><br/>
 	  </p>
 	  <p>
-	    We're trying to establish "Integrated Healthcare Eco-System" using IoT technology and clinical A.I. system for developing countries. Our system can triage and assess one's health risk without professional knowledge given symptoms and/or test values, suggest a candidate list of treatments, and support clinical decision for medical doctors. The system has a highly complicated statistical structure to enhance the quality of the inference, estimate the confidence level of the conclusions, and predict the future risks through Bayesian statistics and machine learning (We have no plan to publish the detailed statistical structures). If you're interested in the program, please send me a message. </p>
+miup.Inc is trying to establish "Integrated Healthcare Eco-System" using IoT technology and clinical A.I. system starting from developing countries to developed countries. Firstly, we have launched a home delivery health-care service in Bangladesh. (http://my-sheba.com)
+
+My role is to design business strategy, make capital policy, raise funds, manage team, etc ..., and of course, make clinical A.I. and analyze accumulated medical data. Actually, I'm currently interested in finance and negotiation of business. 
+
+Our system has a highly complicated statistical structure to enhance the quality of the inference, estimate the confidence level of the conclusions, and predict the future risks through Bayesian statistics and machine learning. If you're interested in our program, please send me a message.
+</p>
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>September  2015 - Current</sm></p>
