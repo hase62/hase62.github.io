@@ -409,10 +409,11 @@
 	</div>
 	
 	<div class="col-lg-9">
-	  <p>長谷川嵩矩：東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。修士・博士課程に於いて情報科学を専攻、生命情報学研究（生体内システムの統計的解析手法開発）に携わる。2013年に情報科学技術と芸術の融合を行うべく、CRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システム(CRUNCH CINEMA)を開発(前者は2015年1月に事業譲渡)。京都大学大学院 情報学研究科博士課程を短縮修了後、東北大学東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発を行う。また同時期から<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)やインフルエンザの感染予測技術などを開発・提供。<br/><br/>
+	  <p>長谷川嵩矩：東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。修士・博士課程に於いて情報科学を専攻、生命情報学研究（生体内システムの統計的解析手法開発）に携わる。2013年に情報科学技術と芸術の融合を行うべく、CRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システム(CRUNCH CINEMA)を開発(前者は2015年1月に事業譲渡)。京都大学大学院 情報学研究科博士課程を短縮修了後、東北大学東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発を行う。また同時期から<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)やインフルエンザの感染予測技術などを開発・提供する。傍ら、学部時代から今まで地政学と国際情勢、エネルギー戦略論を独自に集中して学んでおり、これらの分野での博士号をいつか取得したいと考えている。<br/><br/>
 
-	    現職では、複雑な性質を持つ時系列データの内部状態とその将来状態を正確に予測する統計理論研究、ICGCプロジェクトにおける免疫ゲノムデータ解析と解析ライブラリ開発、コホートデータを用いたGWASの層別化解析手法の開発や検査値・生活習慣の時系列データとゲノムデータを統合的に利用することで将来の健康状態を予測する統計科学手法開発を行っている。
-	    そのほか、複数企業のAI(統計科学、機械学習)開発における技術顧問や医療データ解析に関する共同研究を行っており、特に東大発ベンチャー企業であるmiup社では資本政策やビジネス戦略の立案と交渉まで担っている。生命情報学、統計科学、統計的シミュレーションが専門であり、特に状態空間モデルの理論的進展に関する幅広い知見を有している。<br/><br/>
+	    現職では、複雑な性質を持つ時系列データの内部状態とその将来状態を正確に予測する統計理論研究、ICGCプロジェクトにおける免疫ゲノムデータ解析と解析ライブラリ開発、コホートデータを用いたGWASの層別化解析手法の開発や時系列の検査値・生活習慣データとゲノムデータを統合的に利用することで将来の健康状態を予測する統計科学手法の開発などを行っている。生命情報学や統計科学、計算機統計学、統計的シミュレーションが専門であり、特に状態空間モデルの理論的進展に関する幅広い知見を有している。<br/><br/>
+
+	    そのほか、複数企業のAI (統計科学、機械学習) 開発における技術顧問や医療データ解析に関する共同研究を行っており、特に東大発ベンチャー企業であるmiup社では資本政策やビジネス戦略の立案、対外的な契約交渉まで担っている。このため最近では、ベンチャー企業の経営に必須である組織論、金融、法律、マーケティング、システム開発などの学習も継続的に行っており、実際にビジネスにおいて実施している。<br/><br/>
 	  </p>
 	  <p>Research Bio: Takanori Hasegawa received BS in Engineering from Waseda university, MS in Information Science and Technology from The university of Tokyo, and PhD in Informatics from Kyoto University in 2010, 2012 and 2015, respectively. He is currently an Assistant Professor of Health Intelligence Center, Institute of Medical Science, University of Tokyo. His current research interests cover time series analysis, data assimilation, Bayesian statistical inference, health informatics, genome wide association study, immunological and cancer genome analysis. </p>
 	</div>
