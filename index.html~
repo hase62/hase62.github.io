@@ -77,11 +77,17 @@
 	    <h5>ABOUT</h5>
 	  </div>
 	  <div class="col-lg-6">
-	    <p>I'm an Assistant Professor at <a href="http://hic-imsut.jp/">The  University of Tokyo</a>, a Co-founder / Collaborative Researcher at <a href="http://miup.jp/">miup Inc.</a>, Technical Advisors at <a href="https://www.panasonic.com/global/home.html">Panasonic, Inc.</a> and <a href="">CareLab Inc.</a> with expertise of Computational Statistics, Time-series Analysis (Data Assimilation), Applied Statistics, Bioinformatics, and Machine Learning. I'm interested in applying technological developments in computer science and biotechnology for the innovation of human being. Also, I'm currently very interested in financial strategy and business development (focusing on these roles in miup Inc.). <br/><br/>
+	    <p>I'm an Assistant Professor at <a href="http://hic-imsut.jp/">The  University of Tokyo</a>, a Co-founder at <a href="http://miup.jp/">miup Inc.</a>, and a Technical Advisor at <a href="https://www.panasonic.com/global/home.html">Panasonic, Inc.</a>. <br/><br/>
 
-	      In the field of Computational and Applied Statistics, I have developed several types of data assimilation methodologies, e.g., linear/nonlinear Kalman filters. In practical research of Computational Biology and Genomics, I have analyzed human genome/health and epidemiological data such as time-series medical examination data to predict future health risks and cancer genome sequencing data for the elucidation of immuno-cancer relationship and the development of personalized medicine. In Business field, the current interest is to develop several types of artificial intelligence systems utilizing, e.g., Bayesian statistical inference, for the application of medicine, health and nursing care, and immune-cancer therapies, and also to design financial and business strategies. <br/><br/>
+	    At the doctoral course of Graduate School of Informatics, Kyoto University, I was conducting research on statistical time series analysis and computational biology, and also established a start-up company "CRUNCHERS Inc." as a co-founder to cooperate with Information Science and Art. In this company, he develped (i) a novel evaluation system centered on natural language processing technology, and (ii) a box-office revenue forecasting system for movies (CRUNCH CINEMA). They transferred business in January 2015. <br/><br/>
+		
+		After completing the doctoral program shortly, I became an Assistant Professor at Tohoku Medical Megabank Organization, Tohoku University. Here, I focused on genome wide association study (GWAS) especially for rapid analysis of rare mutations. Also, he became a technical advisor to develop and provide medical disease inference system using Bayesian learning and influenza-infection prediction system based on time-series data. <br/><br/>
+			
+		I was appointed to current position in 2015. I'm focusing on (i) the development of novel statistical methodology for the inference of the internal states of time series data and the prediction of their future states, (ii) cancer-immnogenomics and the development of their analysis tools in the International Cancer Genome Consortium, (iii) stratification analysis of GWAS using cohort data, and (iv) the predictive analysis of time-series health check-up data integrating with blood test values, social status, lifestyle habit, genomic data, and so on. I also have experience in committees and evaluation boards at some ministries and agencies, and have knowledge on labor laws and dispatch law operations at medical sites. <br/><br/>
 
-	      I'm also studying modern history, classical strategy, e.g., Hundred Schools of Thought and The Prince, geopolitics and philosophy as life works.</p>
+		I was also technical advisors on production and experiment optimization at large companies and development of AI systems (statistical science, machine learning) at startup companies. Especially, at miup inc, which is a start-up company from the University of Tokyo, I formulates business strategy, progress management, capital policy and foreign negotiations and then have a business experience from the start to the growth period company. <br/><br/>
+
+		</p>
 	  </div>
 	  <!--div class="col-lg-3">
 	      <p><a href="#"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
@@ -412,13 +418,13 @@
 	</div>
 	
 	<div class="col-lg-9">
-	  <p>長谷川嵩矩：東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。修士・博士課程に於いて情報科学を専攻、統計的時系列解析と生命情報学研究（生体内システムの統計的解析手法開発）の研究に着手。ベイズ推論や計算機統計、ゲノム解析を含む生命情報学を専門とし、特に状態空間モデルの理論的進展に関する幅広い知見を有する。<br/><br/>
+	  <p>長谷川嵩矩：東京大学医科学研究所 ヘルスインテリジェンスセンター 助教。博士(情報学)。<br/><br/>
 
-	    京都大学大学院 情報学研究科博士課程の在学中に情報科学技術と芸術の融合を行うべく、CRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システム(CRUNCH CINEMA)を開発(前者は2015年1月に事業譲渡)。その後、博士課程を短縮修了して東北大学東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発を行う。また同時期から<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)やインフルエンザの感染予測技術などを開発・提供する。<br/><br/>
+	    京都大学大学院 情報学研究科 博士課程の在学中に情報科学技術と芸術の融合を行うべく、CRUNCHERS株式会社を共同創業し、自然言語処理技術を中核とした小説の評価システム(<a href="http://crmg.me/">CRUNCH MAGAZINE</a>)と統計的シミュレーションを用いた映画の興行収益予測システム(CRUNCH CINEMA)を開発(前者は2015年1月に事業譲渡)。その後、博士課程を短縮修了して東北大学東北メディカル・メガバンク機構助教に着任し、疾患と遺伝子変異の関連解析並びに希少変異の網羅的かつ高速な解析手法を開発を行う。また同時期から<a href="http://medley.life/">Medley, Inc.</a>の技術顧問に着任し、ベイズ学習を用いた医療用疾患推定システム(<a href="http://medley.life/symptoms">Mogul</a>)やインフルエンザの感染予測技術などを開発・提供する。<br/><br/>
 
-	    現職では、複雑な性質を持つ時系列データの内部状態とその将来状態を正確に予測する統計理論研究、ICGCプロジェクトにおける免疫ゲノムデータ解析と解析ライブラリ開発、コホートデータを用いたGWASの層別化解析手法の開発や時系列の検査値・生活習慣データとゲノムデータを統合的に利用することで将来の健康状態を予測する統計科学手法の開発などを行う。<br/><br/>
+	    2015年に現職へ着任、複雑な性質を持つ時系列データの内部状態とその将来状態を正確に予測する統計理論研究、ICGCプロジェクトにおける免疫ゲノムデータ解析と解析ライブラリ開発、コホートデータを用いたGWASの層別化解析手法の開発や時系列の検査値・生活習慣データとゲノムデータを統合的に利用することで将来の健康状態を予測する統計科学手法の開発などを行う。省庁などにおける委員会や評価会の委員経験も持ち、臨床医学や臨床検査、医療を含む多くの現場における労働法や派遣法の運用に関する知見も有している。<br/><br/>
 
-	    大企業の生産及び実験最適化やスタートアップ企業のAI (統計科学、機械学習) 開発に関する技術顧問を担っている他、特に東大発ベンチャー企業であるmiup社では共同創業者として資本政策や企業価値評価、ビジネス戦略立案、対外交渉の役割を担っている。大規模医療データ解析や医療産業における新たな働き方の提供に関する共同研究も行っており、臨床医学や臨床検査、医療を含む多くの現場における労働法や派遣法の運用に関する知見も有している。</p>
+	    また、大企業の生産及び実験最適化やスタートアップ企業のAI (統計科学、機械学習) 開発に関する技術顧問の経験も有している。特に東大発ベンチャー企業であるmiup社では共同創業者として事業戦略の策定、複数事業の進捗管理、資本政策並びに対外交渉も一手に担っており、創業期から成長期にかけてのビジネス経験も厚い。</p>
 	  <p>Research Bio: Takanori Hasegawa received BS in Engineering from Waseda university, MS in Information Science and Technology from The university of Tokyo, and PhD in Informatics from Kyoto University in 2010, 2012 and 2015, respectively. He is currently an Assistant Professor of Health Intelligence Center, Institute of Medical Science, University of Tokyo. His current research interests cover time series analysis, data assimilation, Bayesian statistical inference, health informatics, genome wide association study, immunological and cancer genome analysis. </p>
 	</div>
 	
