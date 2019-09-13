@@ -62,7 +62,7 @@
 	    <h1>Takanori Hasegawa, Ph.D</h1>
 	    <h3>Assistant Professor at The Univerity of Tokyo</h3>
 	    <h3>Co-founder at miup Inc.</h3>
-	    <!--h3>Business and Technology Advisor at Medely Inc, CAREER CO., LTD., and Scala Group.</h3!-->
+	    <h3>Business and Technology Advisor at Medely Inc, CAREER CO., LTD., and Scala Group.</h3>
 	  </div><!--/.col-lg-12 -->
 	</div><!--/.row -->
       </div><!--/.container -->
@@ -77,7 +77,7 @@
 	    <h5>ABOUT</h5>
 	  </div>
 	  <div class="col-lg-6">
-	    <!--p>He is an Assistant Professor at <a href="http://hic-imsut.jp/">The  University of Tokyo</a>, a Co-founder at <a href="http://miup.jp/">miup Inc.</a>, and a Business/Technical Advisor at <a href="http://medley.life/">Medely Inc.</a>, <a href="https://www.careergift.co.jp">CAREER CO., LTD.</a>, and <a href="https://scalagrp.jp/">Scala Group</a>. <br/><br/>
+	    <p>He is an Assistant Professor at <a href="http://hic-imsut.jp/">The  University of Tokyo</a>, a Co-founder at <a href="http://miup.jp/">miup Inc.</a>, and a Business/Technical Advisor at <a href="http://medley.life/">Medely Inc.</a>, <a href="https://www.careergift.co.jp">CAREER CO., LTD.</a>, and <a href="https://scalagrp.jp/">Scala Group</a>. <br/><br/>
 
 	      He obtained his Ph.D. on statistical time series analysis and computational biology from the Graduate School of Informatics, Kyoto University. During his doctoral studies, he also co-founded a start-up called "CRUNCHERS Inc.," to bring Information Science together with Art. At CRUNCHERS Inc., he developed a novel evaluation system centered on natural language processing technology and a box-office revenue forecasting system for movies (CRUNCH CINEMA). The start-up transferred its business in January 2015. <br/><br/>
 
@@ -186,7 +186,7 @@
 	<div class="col-lg-3">
 	  <p><sm>September 2015 - Current</sm></p>
 	</div>
-<!--
+
 	<div class="col-lg-6 col-lg-offset-3">
 	  <p><t>Business and Technology Advisor</t><br/>
 	    <a href="https://www.careergift.co.jp/">CAREER CO., LTD</a><br/>
@@ -205,8 +205,8 @@
 	</div>
 	<div class="col-lg-3">
 	  <p><sm>Aug. 2019 - Mar. Current</sm></p>
-	</div>
--->		  
+		  </div>
+		  
 	<div class="col-lg-6 col-lg-offset-3">
 	  <p><t>Technology Advisor</t><br/>
 	    <a href="http://medley.life/">Medley, Inc.</a><br/>
@@ -214,7 +214,7 @@
 	  <p>We developed an automated consulting system termed <a href="http://medley.life/symptoms">Mogul</a> for medical treatment. This system is a type of artificial intelligence and based on a simple Bayesian inference procedure (Its concept is similar to the one in miup Inc. but this version is a little bit older). Also, a pandemic prediction system for the degree of future influenza epidemic has been released in the website. </p>
 	</div>
 	<div class="col-lg-3">
-	  <p><sm>February  2015 - March 2017 </sm></p>
+	  <p><sm>February  2015 - Current</sm></p>
 	</div>
 		  
       </div><!--/.row -->
